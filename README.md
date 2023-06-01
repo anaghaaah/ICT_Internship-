@@ -1,0 +1,2 @@
+# ICT_Internship-
+INTERNSHIP ON ML AI
